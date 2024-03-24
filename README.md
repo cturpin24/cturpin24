@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hi, I'm Chris! <br/>Cybersecurity Professional, Cloud Engineers<H1>
+<h2>👨‍💻 Software Development Projects:</h2>
+- <b>PowerShell</b>
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <!--
 **cturpin24/cturpin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
